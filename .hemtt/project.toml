@@ -1,0 +1,35 @@
+name = "Mod Name"
+prefix = "gfpae"
+author = "YonV"
+mainprefix = "z"
+
+[files]
+include = [
+    "mod.cpp",
+    "*.paa"
+]
+
+[version]
+git_hash = 0 # Disabled
+
+[lint.sqf]
+enabled = true # Default: true
+exclude = [
+    "a3/3DEN/UI/macroexecs.inc",
+    "macroexecs.inc",
+    "initSettings.sqf",
+    "a3/ui_f/hpp/defineResincl.inc",
+    "a3/ui_f/hpp/defineDIKCodes.inc",
+    "a3/ui_f/hpp/defineCommonGrids.inc",
+    "a3/ui_f/hpp/defineCommonColors.inc",
+]
+
+[Rapify]
+exclude = [
+    "macroexecs.inc"
+]
+
+[asc]
+enabled = true # Default: false
+exclude = [
+]
