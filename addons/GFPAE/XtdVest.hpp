@@ -37,46 +37,32 @@ class XtdGearModels {
 class XtdGearInfos {
     class CfgWeapons {
       class FPGP_PC_Tan_7 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s7";
-        };
       };
       class FPGP_PC_Tan_5 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s5";
-        };
       };
       class FPGP_PC_Tan_4 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s4";
-        };
       };
       class FPGP_PC_Tan_3 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s3";
-        };
       };
       class FPGP_PC_Tan_2 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s2";
-        };
       };
       class FPGP_PC_Tan_1 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s1";
-        };
       };
       class FPGP_PC_Tan_6 {
-        class {
           model = "GFPGP_2_Assulycar";
           type = "s6";
-        };
       };
     };
 };
