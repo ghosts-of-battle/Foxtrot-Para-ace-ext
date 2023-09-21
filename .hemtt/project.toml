@@ -1,5 +1,5 @@
 name = "Mod Name"
-prefix = "gfpae"
+prefix = "ghost"
 author = "YonV"
 mainprefix = "z"
 
@@ -10,7 +10,7 @@ include = [
 ]
 
 [version]
-git_hash = 0 # Disabled
+path = "addons/GFPAE/script_version.hpp" # Default
 
 [lint.sqf]
 enabled = true # Default: true
