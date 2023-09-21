@@ -45,7 +45,7 @@ class XtdGearModels {
                 };
                 class nor {
                     label = "nor";
-                    image = "FPGP_2_helmets\icons\opscore_img_nodr.paa";
+                    image = "FPGP_2_helmets\icons\opscore_img_nod.paa";
                 };
                 class pl {
                     label = "PL";

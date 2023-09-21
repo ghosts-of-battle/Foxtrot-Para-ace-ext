@@ -1,5 +1,5 @@
 dir = "gfpae";
-name = "My Cool Mod";
+name = "ACE3 Arsenal Extended Compatibility - Foxtrot Paramilitary Gear Pack v2";
 
 author = "YonV";
 

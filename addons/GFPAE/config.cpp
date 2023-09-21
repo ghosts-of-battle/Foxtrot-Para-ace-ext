@@ -7,7 +7,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"FPGP_2_Headgear", "FPGP_2_Uni", "FPGP_2_Vests"};
+        requiredAddons[] = {"FPGP_2_Headgear", "FPGP_2_Uni", "FPGP_2_Vests", "aceax_gearinfo"};
         authors[] = {""};
         VERSION_CONFIG;
     };

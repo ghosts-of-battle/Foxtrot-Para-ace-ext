@@ -6,7 +6,7 @@ class XtdGearModels {
             label = "Uniform";
             class pants {
                 alwaysSelectable = 1;
-                values[] = { "aor1","aor2","mcb","khk","mc","m81", "mcar", "mct","rgr","dts","ts","jean" };
+                values[] = { "aor1","aor2","mcb","khk","mc","m81", "mcar", "mct","rgr","dts","ts","jeans" };
                 label = "Uniform Pants";
                 class aor1 {
                   label = "AOR1";
