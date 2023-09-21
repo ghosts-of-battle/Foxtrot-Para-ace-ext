@@ -39,4 +39,4 @@ class CfgMods {
         };
     };
 };
-// Configs go here
+

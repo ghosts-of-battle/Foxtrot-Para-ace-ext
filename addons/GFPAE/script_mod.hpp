@@ -2,7 +2,7 @@
 #define PREFIX gfpae
 #define AUTHOR Ghost
 #define QAUTHOR QUOTE(AUTHOR)
-#define LOGO_PATH QUOTE(z\ghost\addons\main\logo_256.paa)
+#define LOGO_PATH QUOTE(z\ghost\addons\GFPAE\logo_256.paa)
 #define URL "https://www.ghostsofbattle.com/"
 
 #include "script_version.hpp"
